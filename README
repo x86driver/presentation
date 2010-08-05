@@ -1,2 +1,3 @@
-my-arg: test for argument test and remote debug
-
+my-arg: Basic debug example
+my-back: Backtrace example
+my-nm: Debug symbol example
