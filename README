@@ -1,3 +1,3 @@
 my-arg: Basic debug example
-my-back: Backtrace example
-my-nm: Debug symbol example
+my-back: Backtrace example and __builtin__return_address
+my-nm: Debug symbol example and c++filt
